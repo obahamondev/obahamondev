@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obahamondev
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Data Engineering
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me oscar.bahamonde.dev@gmail.com
 
 <!---
